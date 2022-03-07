@@ -35,6 +35,6 @@ The designs were created to the following widths:
 #Screenshots
 
 - Desktop design, mobile design and active states in shots ![desktop-design](https://user-images.githubusercontent.com/98408081/156959811-0e68103c-52c4-460c-982b-3626ad04ce8c.jpg)
-- ![mobile-design](https://user-images.githubusercontent.com/98408081/156959813-3cec41a2-79ed-4b6d-ae89-c4b8f4f9d1c5.jpg)
--![active-states](https://user-images.githubusercontent.com/98408081/156959824-dbd677ce-1a86-4bf3-a971-e29585ee574d.jpg)
+![mobile-design](https://user-images.githubusercontent.com/98408081/156959813-3cec41a2-79ed-4b6d-ae89-c4b8f4f9d1c5.jpg)
+![active-states](https://user-images.githubusercontent.com/98408081/156959824-dbd677ce-1a86-4bf3-a971-e29585ee574d.jpg)
 
